@@ -1,0 +1,14 @@
+Op override start method
+
+Declare internal prop
+
+Set internal to false
+Do work
+Set internal to true
+
+Override key paths for values affecting finished
+(Observing finished)
+
+Notify observer for keys
+
+
